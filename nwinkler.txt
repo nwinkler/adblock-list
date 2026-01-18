@@ -1,4 +1,6 @@
-! My own adblock list
-www.thegearpage.net#@#div[id^="google_ads_iframe_"]
-www.thegearpage.net#@#div[name^="google_ads_iframe_"]
-www.thegearpage.net#@#.VSPostbit
+! Title: nwinkler's adblock list
+! Description: My own list of rules
+! Version: 1.0.1
+thegearpage.net##div[id^="google_ads_iframe_"]
+thegearpage.net##div[name^="google_ads_iframe_"]
+thegearpage.net##.VSPostbit
