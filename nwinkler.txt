@@ -1,3 +1,4 @@
 ! My own adblock list
 thegearpage.net#@#div[id^="google_ads_iframe_"]
+thegearpage.net#@#div[name^="google_ads_iframe_"]
 thegearpage.net#@#.VSPostbit
